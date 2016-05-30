@@ -1,0 +1,62 @@
+order{
+	display:block;
+	width:1701px;
+	margin:15px auto;
+}
+product{
+	display:block;
+	width:auto;
+	margin:15px 0 0 0;
+}
+id_user,
+id_products,
+personal_data phone_user,
+count_product,
+price_one,
+sum,date{
+	display: inline-block;
+	border:1px solid red;
+	padding: 5px;
+	width:105px;
+}
+personal_data{
+	display: inline-block;
+}
+personal_data name_user,
+personal_data user_address,
+name_product{
+	display: inline-block;
+	border:1px solid red;
+	padding: 5px;
+	width:205px;
+}
+/*****INFO***/
+info{
+	display:block;
+	width:1701px;
+	margin:15px auto;
+}
+info id_u,
+info p_u,
+info id_p,
+info c_p,
+info p_p,
+info s_t,
+info d
+{
+	display: inline-block;
+	border:1px solid blue;
+	padding: 5px;
+	width:105px;
+	text-align: center;
+}
+info n_u,
+info a_u,
+info n_p
+{
+	display: inline-block;
+	border:1px solid blue;
+	padding: 5px;
+	width:205px;
+	text-align: center;
+}

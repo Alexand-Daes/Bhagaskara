@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE order SYSTEM "order.dtd">
+
+<order>
+	<info>
+		<id_u>ID USER</id_u>
+		<n_u>NAME/SURNAME USER</n_u>
+		<a_u>ADDRESS USER</a_u>
+		<p_u>PHONE USER</p_u>
+		<id_p>ID PRODUCT</id_p>
+		<n_p>NAME PRODUCT</n_p>
+		<c_p>COUNT PRODUCT</c_p>
+		<p_p>PRICE PRODUCT</p_p>
+		<s_t>SUM TOTAL</s_t>
+		<d>DATE</d>
+
+	</info>
+	<product id="1">
+		<id_user>1</id_user>
+			<personal_data>
+				<name_user>Name Surname</name_user>
+				<user_address>Street sdf 23 sd</user_address>
+				<phone_user>0660845374</phone_user>
+			</personal_data>
+		<id_products>23</id_products>
+		<name_product>apple</name_product>
+		<count_product>5</count_product>
+		<price_one>23000</price_one>
+		<sum>1115000</sum>
+		<date>13.04.2016</date>
+	</product>
+	<product id="2">
+		<id_user>153</id_user>
+			<personal_data>
+				<name_user>Name Surname</name_user>
+				<user_address>Street sdf 23 sd</user_address>
+				<phone_user>0660845374</phone_user>
+			</personal_data>
+		<id_products>23</id_products>
+		<name_product>apple</name_product>
+		<count_product>5</count_product>
+		<price_one>23000</price_one>
+		<sum>115000</sum>
+		<date>13.04.2016</date>
+	</product>
+	<product id="3">
+		<id_user>51</id_user>
+			<personal_data>
+				<name_user>Name Surname</name_user>
+				<user_address>Street sdf 23 sd</user_address>
+				<phone_user>0660845374</phone_user>
+			</personal_data>
+		<id_products>23</id_products>
+		<name_product>apple</name_product>
+		<count_product>5</count_product>
+		<price_one>23000</price_one>
+		<sum>115000</sum>
+		<date>13.04.2016</date>
+	</product>
+	<product id="4">
+		<id_user>91</id_user>
+			<personal_data>
+				<name_user>Name Surname</name_user>
+				<user_address>Street sdf 23 sd</user_address>
+				<phone_user>0660845374</phone_user>
+			</personal_data>
+		<id_products>23</id_products>
+		<name_product>apple</name_product>
+		<count_product>5</count_product>
+		<price_one>23000</price_one>
+		<sum>115000</sum>
+		<date>13.04.2016</date>
+	</product>
+	<product id="5">
+		<id_user>123</id_user>
+			<personal_data>
+				<name_user>Name Surname</name_user>
+				<user_address>Street sdf 23 sd</user_address>
+				<phone_user>0660845374</phone_user>
+			</personal_data>
+		<id_products>23</id_products>
+		<name_product>apple</name_product>
+		<count_product>5</count_product>
+		<price_one>23000</price_one>
+		<sum>115000</sum>
+		<date>13.04.2016</date>
+	</product>
+</order>
